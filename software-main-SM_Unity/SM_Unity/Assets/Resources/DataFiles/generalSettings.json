@@ -1,0 +1,53 @@
+{
+ "start": "Montag, 20. September 2021 14:09:57 ", 
+"entries": 
+[ 
+ {
+    "UserDataFolder": "userData",
+    "NewUserData": [
+        "User1/user1",
+        "User2/user2",
+        "User3/user3",
+        "User4/user4",
+        "User5/user5",
+        "User6/user6",
+        "User7/user7",
+        "User8/user8",
+        "User9/user9",
+        "User10/user10",
+        "User11/user11",
+        "User12/user12",
+        "User13/user13",
+        "User14/user14",
+        "User15/user15",
+        "User16/user16",
+        "User17/user17",
+        "User18/user18",
+        "User19/user19",
+        "User20/user20",
+        "User21/user21",
+        "User22/user22",
+        "User24/user24",
+        "User25/user25",
+        "User26/user26",
+        "User27/user27",
+        "User28/user28",
+        "User29/user29",
+        "User30/user30",
+        "User31/user31",
+        "User32/user32",
+        "User34/user34",
+        "User35/user35",
+        "User36/user36",
+        "User37/user37",
+        "User38/user38",
+        "User39/user39",
+        "User40/user40"
+    ],
+    "IncompleteUserData": [],
+    "CompleteUserData": [
+    ]
+} 
+], 
+"ende" : "END"
+ }
